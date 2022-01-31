@@ -14,6 +14,8 @@ SELECT DISTINCT vend_id FROM products;
 SELECT prod_name FROM products LIMIT 5;
 -- from line 5, 5 lines
 SELECT prod_name FROM products LIMIT 5,5;
+
+SELECT prod_name FROM products LIMIT 5 OFFSET 5;
 -- use full name
 SELECT products.prod_name FROM products;
 
