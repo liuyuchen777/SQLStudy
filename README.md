@@ -10,6 +10,8 @@ Click setted database connection to connect database.
 
 "RUN SQL" will appear on top of SQL script.
 
+Use draw.io or VSCode draw.io integration to open ER diagram.
+
 ## Reference
 
 SQL in 10 Minutes a Day, Sams Teach Yourself --- 5th Edition
