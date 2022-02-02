@@ -21,3 +21,5 @@ SELECT products.prod_name FROM products;
 
 SELECT products.prod_name FROM crashcourse.products;
 
+-- print a line
+SELECT 'Hello World!';
